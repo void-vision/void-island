@@ -4,6 +4,11 @@
 
 **在 Mac 的刘海里，查看 AI 会话、Git 改动，让电脑保持唤醒。**
 
+[![Website](https://img.shields.io/badge/Website-voidisland.app-007ec6?style=flat-square&logo=googlechrome&logoColor=white)](https://voidisland.app/)
+[![Issues](https://img.shields.io/github/issues/void-vision/void-island?style=flat-square&logo=github)](https://github.com/void-vision/void-island/issues)
+[![Stars](https://img.shields.io/github/stars/void-vision/void-island?style=flat-square&logo=github)](https://github.com/void-vision/void-island/stargazers)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/Z3fh88qHwN)
+
 [官网](https://voidisland.app/) · [Discord 社区](https://discord.gg/Z3fh88qHwN) · [反馈问题](https://github.com/void-vision/void-island/issues/new) · [提出建议](https://github.com/void-vision/void-island/issues/new) · [English](README.md)
 
 集中查看 AI 编程会话，在需要你时处理授权和提问，回到正确的应用。内置 AI 会话、Git、防休眠三个插件，可以在 Island 自己的设置里分别开关。

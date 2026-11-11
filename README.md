@@ -4,6 +4,11 @@
 
 **AI sessions, Git and keep awake, in your Mac’s notch.**
 
+[![Website](https://img.shields.io/badge/Website-voidisland.app-007ec6?style=flat-square&logo=googlechrome&logoColor=white)](https://voidisland.app/)
+[![Issues](https://img.shields.io/github/issues/void-vision/void-island?style=flat-square&logo=github)](https://github.com/void-vision/void-island/issues)
+[![Stars](https://img.shields.io/github/stars/void-vision/void-island?style=flat-square&logo=github)](https://github.com/void-vision/void-island/stargazers)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/Z3fh88qHwN)
+
 [Website](https://voidisland.app/) · [Discord](https://discord.gg/Z3fh88qHwN) · [Report a bug](https://github.com/void-vision/void-island/issues/new) · [Request a feature](https://github.com/void-vision/void-island/issues/new) · [简体中文](README.zh-CN.md)
 
 Follow your AI coding sessions, respond when they need you, and return to the right app. Built-in plugins put AI sessions, repository changes and keep awake in one small surface. Each plugin can be enabled or disabled in the Island’s own settings.
