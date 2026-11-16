@@ -43,7 +43,7 @@ Void Island 有独立的设置窗口。AI 会话、Git 和防休眠可以单独�
 
 ## 下载与发布
 
-独立版本的发布信息请查看 [voidisland.app](https://voidisland.app/)。本仓库的 [Releases](https://github.com/void-vision/void-island/releases) 尚未发布完成验证的独立安装包。
+Apple Silicon 和 Intel Mac 的独立安装包已在 [Releases](https://github.com/void-vision/void-island/releases/latest) 提供，均使用 Developer ID 签名并通过 Apple 公证。安装后可在 **设置 → 关于 → 软件更新** 中检查更新，Island 独立更新，无需等待 Voido 发版。
 
 ## 欢迎反馈
 
@@ -51,4 +51,4 @@ Void Island 有独立的设置窗口。AI 会话、Git 和防休眠可以单独�
 
 反馈 bug 时，请附上 macOS 和 Void Island 版本、使用的 AI 助手与终端或桌面应用、复现步骤和预期结果。有短录屏会更容易定位；分享前请去掉私人信息。
 
-本仓库用于产品展示和收集反馈。
+本仓库用于产品展示、正式安装包分发和收集反馈。

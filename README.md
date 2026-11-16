@@ -43,7 +43,7 @@ The plugins described here are built in. An open third-party Island plugin marke
 
 ## Download and releases
 
-Check [voidisland.app](https://voidisland.app/) for release availability. A verified standalone installer has not been published in this repository’s [Releases](https://github.com/void-vision/void-island/releases) yet.
+Signed and notarized standalone installers for Apple Silicon and Intel Macs are available in [Releases](https://github.com/void-vision/void-island/releases/latest). After installation, open **Settings → About → Software update** to check for updates. Void Island updates independently of Voido.
 
 ## Feedback
 
@@ -51,4 +51,4 @@ Found a bug or have an idea? [Open an issue](https://github.com/void-vision/void
 
 For bugs, include your macOS and Void Island versions, the agent and terminal or desktop app, the steps to reproduce, and what you expected to happen. A short recording helps; remove private information before sharing it.
 
-This repository contains product information and community feedback.
+This repository contains product information, official installers and community feedback.
